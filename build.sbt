@@ -3,6 +3,7 @@ val specs2V = "4.3.2"
 
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % "2.5.14",
+  "com.typesafe.akka" %% "akka-stream" % "2.5.14",
   "org.specs2" %% "specs2-core" % specs2V % "test"
 )
 
