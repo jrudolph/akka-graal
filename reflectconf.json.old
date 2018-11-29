@@ -1,0 +1,436 @@
+[
+  {
+    "name" : "akka.event.DefaultLoggingFilter",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "net.virtualvoid.akka.graal.NoScheduler",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.actor.LocalActorRefProvider",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.routing.RoundRobinPool",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.UnboundedMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.BoundedMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.DequeBasedMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.UnboundedDequeBasedMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.BoundedDequeBasedMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.MultipleConsumerSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.ControlAwareMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.UnboundedControlAwareMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.BoundedControlAwareMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.event.LoggerMessageQueueSemantics",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.routing.ConsistentHashingPool",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.actor.LocalActorRefProvider$Guardian",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.actor.LocalActorRefProvider$SystemGuardian",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.dispatch.UnboundedMailbox",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.actor.DefaultSupervisorStrategy",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.event.Logging$DefaultLogger",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.event.LoggerMailboxType",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.event.DeadLetterListener",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.event.EventStreamUnsubscriber",
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.serialization.SerializationExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.serialization.SerializationExtension$",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "com.typesafe.sslconfig.ssl.DefaultHostnameVerifier",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "sun.security.ssl.KeyManagerFactoryImpl$SunX509",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "sun.security.ssl.SSLContextImpl$TLS12Context",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.TcpManager",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.SelectionHandler",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.routing.RoutedActorCell$RouterActorCreator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.TcpListener",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.http.impl.engine.client.PoolMasterActor",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.TcpIncomingConnection",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.SelectionHandler$ChannelRegistryImpl",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.TcpOutgoingConnection",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.InetAddressDnsProvider",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.SimpleDnsManager",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "akka.io.InetAddressDnsResolver",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+  {
+    "name" : "com.sun.crypto.provider.AESCipher$General",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECDHKeyAgreement",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECDSASignature$Raw",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECDSASignature$SHA1",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECDSASignature$SHA256",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECKeyFactory",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECKeyPairGenerator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ec.ECParameters",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.DSA$SHA1withDSA",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.DSAKeyFactory",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.DSAParameters",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.JavaKeyStore$DualFormatJKS",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.MD5",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.NativePRNG",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.SHA",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.SHA2$SHA256",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.X509Factory",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.provider.certpath.PKIXCertPathValidator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.rsa.RSAKeyFactory",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.rsa.RSASignature$MD5withRSA",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.rsa.RSASignature$SHA1withRSA",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.rsa.RSASignature$SHA256withRSA",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ssl.KeyManagerFactoryImpl$SunX509",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ssl.SSLContextImpl$DefaultSSLContext",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ssl.SSLContextImpl$TLS12Context",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.AuthorityInfoAccessExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.AuthorityKeyIdentifierExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.BasicConstraintsExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.CRLDistributionPointsExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.CertificatePoliciesExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.ExtendedKeyUsageExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.IssuerAlternativeNameExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.KeyUsageExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.NameConstraintsExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.NetscapeCertTypeExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.PolicyMappingsExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.PrivateKeyUsageExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.SubjectAlternativeNameExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  },
+
+  {
+    "name" : "sun.security.x509.SubjectKeyIdentifierExtension",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true
+  }
+]
